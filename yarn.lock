@@ -1721,10 +1721,10 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@swc/wasm-web@1.2.66":
-  version "1.2.66"
-  resolved "https://registry.yarnpkg.com/@swc/wasm-web/-/wasm-web-1.2.66.tgz#0970f33f6c74f84c026236649806a3d55ca78ae3"
-  integrity sha512-u5Vb7iPL2gr2IJc0V7wAt/YfwCH8wp2e6yTVHXt4ZI3NGOOhdH2jF0F8f1EzvNB2vU3LFO/JUuR7EZCsv7p/Aw==
+"@swc/wasm-web@1.2.85":
+  version "1.2.85"
+  resolved "https://registry.yarnpkg.com/@swc/wasm-web/-/wasm-web-1.2.85.tgz#39c2d55600f7ab596a71d3bf16dd7f8b3a230d72"
+  integrity sha512-1UsLvmxNaQ5bMMDk4qt1h2oUGuEA7YKqMy8M3m3gfM8Jf6VT1btvjwLZqWlNGdA2kkeI3AHpTvQLtm88w8TMJg==
 
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"
